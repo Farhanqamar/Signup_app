@@ -1,0 +1,10 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,300;0,6..12,400;1,6..12,200&family=Open+Sans:wght@300;400;500&family=Roboto+Condensed:wght@100;200;400&family=Sometype+Mono:ital@1&display=swap'); */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Open Sans';
+}
